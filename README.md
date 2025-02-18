@@ -1,6 +1,7 @@
 # ChatGPT Custom Prompt
 
 這個 Repo 收錄了我整理出的 ChatGPT Prompt，用於生涯規劃與學習策略的建議模式。
+目前有更新資料，將於20 FEB做出調整更新
 
 ## 1. 使用方式 (Usage)
 1. 進入 ChatGPT 或任何支援的 LLM 介面
